@@ -1,0 +1,8 @@
+.login-from{    
+    justify-content: center;
+    align-items: center;
+    margin: 30px 500px;
+    display: flex;
+    border: 2px solid gray;
+    border-radius: 30px;
+}

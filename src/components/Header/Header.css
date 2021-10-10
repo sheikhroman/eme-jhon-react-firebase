@@ -14,7 +14,9 @@
     margin-right: 20px;
     padding: 5px;
     font-size: 20px;
+    border-radius: 5px;
 }
 .header nav a:hover{
     background-color: lightgray;
+    transition: 1.5s;
 }
